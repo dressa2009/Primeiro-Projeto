@@ -11,4 +11,14 @@
 /*Estilo do Cabeçalho*/
 
 header{background-color: #ffffff;/*fundo branco para o cabeçalho*/
--}
+}
+
+/*seções gerais*/
+section{
+    padding-bottom: 5rem; /*espaçamento inferoir grande para seção*/
+}
+/*links de navegação*/
+.nav-link{
+    color: #CB6D43; /*cor marrom-alaranjada para os link*/
+    font-weight: 600; /*texto em negrito*/
+}
